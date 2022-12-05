@@ -1,4 +1,5 @@
-<img src="/jessie214/drag_resize/blob/main/img/dragResize.gif?raw=true" alt="dragResize.gif">
+
+![image](​ ​https://github.com/jessie214/drag_resize/blob/main/img/dragResize.gif​​)
 =======
 
 Change window size by dragging
