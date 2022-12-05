@@ -40,14 +40,14 @@ const  ResizeViewer  = () =>{
       <>
         <div className='content-wrapper' ref={contentRef} style={{ color: '#ffffff' }}>
           <div className='parentsBox'  style={{ color: '#ffffff' }}>
-            <div className='left' >左侧1</div>
+            <div className='left' >leftTop</div>
             {init && <DraggleLayout {...draggleLayoutPropsV} direction={'vertical'} type={1}/>}
-            <div className='left'>左侧2</div>  
+            <div className='left'>LeftBottom</div>  
           </div>
           <div className='parentsBox'  style={{ color: '#ffffff' }}>
-            <div className='right' >右侧1</div>
+            <div className='right' >rightTop</div>
             {init && <DraggleLayout {...draggleLayoutPropsV2} direction={'vertical'} type={1}/>}
-            <div className='right'>右侧2</div>
+            <div className='right'>RightBottom</div>
           </div>
 
           {/* <div className='left' ref={DomA} >左侧1</div> */}
