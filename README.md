@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<img src="/jessie214/drag_resize/blob/main/img/dragResize.gif?raw=true" alt="dragResize.gif">
 =======
 
 Change window size by dragging
