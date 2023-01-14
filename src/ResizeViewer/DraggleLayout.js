@@ -19,6 +19,7 @@ const DraggleLayout = (props) => {
     } else {
       setClassType('draggleLine-wrapper-v')
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
   const drag = ({ FirstDom: ref1, secondDom: ref2, contentDom }, draggleLineDom) => {
     const _ref1 = ref1;
